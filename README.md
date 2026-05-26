@@ -32,7 +32,7 @@ The objective of this dashboard is to track sales performance and identify trend
 
 ## Project Files
 - `Mobile_Sales_Dashboard.pbix`
-- `Dataset.csv` (if included)
+- `Dataset.csv`
 
 ## Dashboard Preview
 Add dashboard screenshot here.
